@@ -3,6 +3,8 @@ title: "Genèse du projet"
 order: 4
 in_menu: true
 ---
+![Une fleur](/images/fleur.jpeg)
+
 ## **D'où vient l'idée :**
 
 Test test test

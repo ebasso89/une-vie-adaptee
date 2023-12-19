@@ -1,3 +1,9 @@
-:root {
-    --couleur-primaire : #2a6442;
-}
+body{
+background-color: Yellow;}
+                
+h1{color: green;}
+                
+h2{color: darkolivegreen;}
+                
+p{color: black;}
+          

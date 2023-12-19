@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Une vie adaptée
 
-# L'Échappée Belle
+Une vie adaptée est le site de présentation du projet de création d'entreprise ARTE+.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Cette micro-entreprise est créée par Elise Basso et nécessite un apport financier pour justifier de la subvention Agefiph destinée aux personnes en situation de handicap. 

@@ -1,9 +1,13 @@
+:root {
+--couleur-primaire : #6D0182;
+}
+
 body{
-background-color: white;}
+background-color: #f5f5f5;}
                 
-h1{color: green;}
+h1{color: #6D0182;}
                 
-h2{color: darkolivegreen;}
+h2{color: #5F1E99;}
                 
 p{color: black;}
           

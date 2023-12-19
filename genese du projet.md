@@ -3,9 +3,6 @@ title: "Genèse du projet"
 order: 4
 in_menu: true
 ---
-# Genèse du projet :
-Bla bla bla
-
 ## **D'où vient l'idée :**
 
 Test test test

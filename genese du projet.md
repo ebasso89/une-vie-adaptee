@@ -7,7 +7,7 @@ in_menu: true
 
 
 Sommaire : 
-[D'où vient l'idée](#d-où-vient-l-idée)
+[D'où vient l'idée](#idée)
 
 
 truc
@@ -215,7 +215,7 @@ truc
 
 
 
-## **D'où vient l'idée :**
+## **D'où vient l'idée :** <a name="idée"></a>
 
 Test test test
 

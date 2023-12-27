@@ -5,6 +5,19 @@ in_menu: true
 ---
 # Une vie adaptée
 
-Une vie adaptée est le site de présentation du projet de création d'entreprise ARTE+.
+Bienvenue !  
+Vous êtes sur le petit site de présentation du projet d'entreprise ARTE+.
 
-Cette micro-entreprise est créée par Elise Basso et nécessite un apport financier pour justifier de la subvention Agefiph destinée aux personnes en situation de handicap. 
+## ARTE+, c'est quoi ?  
+Une micro-entreprise en création, axée sur la rédaction, qu'elle soit promotionnelle, récréative ou formelle, sur le web ou sur papier.  
+Les prestations proposées relèvent de la rédaction web et de l'écrivaine publique plus classique.
+
+## Ses particularités ?  
+ARTE+ est fondée par une personne en situation de handicap, qui connaît désormais ses limites et ses forces, et souhaite pouvoir concilier passions, compétences, valeurs, et respect de son rythme. Tout en gagnant enfin sa vie correctement, évidemment !  
+Les valeurs sont très importantes dans ce projet, et le mot choisi pour les expliquer c'est : l'inclusivité.  
+La plus totale possible.
+
+<br>
+<br>
+N'hésitez pas à parcourir ce site, vous trouverez des sommaires sur chaque page pour faciliter votre lecture. <br>
+Toutes les illustrations sont des photos de mes créations manuelles, pour vous donner une idée de ce que pourra obtenir la personne qui contribuera le plus à ce crowdfunding. 

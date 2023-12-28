@@ -234,4 +234,4 @@ Au 30 à Massy (91), etc.
 - Certificat Voltaire
 - Autoformation 
 
-![3 créations avec méandres d'eau figuratifs](/images/Au fil de leau.png) 
+![3 créations avec méandres d'eau figuratifs](https://github.com/ebasso89/une-vie-adaptee/blob/main/images/Au%20fil%20de%20leau.png) 

@@ -233,3 +233,5 @@ Au 30 à Massy (91), etc.
 - AEPF
 - Certificat Voltaire
 - Autoformation 
+
+![3 créations avec méandres d'eau figuratifs](/images/Au fil de leau.png) 

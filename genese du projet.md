@@ -3,7 +3,7 @@ title: "Genèse du projet"
 order: 2
 in_menu: true
 ---
-![Une fleur](/https://github.com/ebasso89/une-vie-adaptee/blob/main/images/fleur.jpeg)
+![Une fleur1](/images/fleur.jpeg)
 
 
 Sommaire :  

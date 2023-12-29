@@ -3,7 +3,7 @@ title: "Genèse du projet"
 order: 2
 in_menu: true
 ---
-![Une fleur1](/images/fleur.jpeg)
+![Créations artistiques sur le thème de l'émergence, le mélange, et la fusion des idées](/images/créations-comme-des-idées.jpg)
 
 
 Sommaire :  
@@ -234,4 +234,4 @@ Au 30 à Massy (91), etc.
 - Certificat Voltaire
 - Autoformation 
 
-![3 créations avec méandres d'eau figuratifs1](https://github.com/ebasso89/une-vie-adaptee/blob/main/images/Au%20fil%20de%20leau.png) 
+![Créations artistiques sur le thème du jaillissement des choses](/images/créations-du-jaillissement-des-choses.jpg) 

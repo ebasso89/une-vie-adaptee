@@ -16,6 +16,7 @@ Les prestations proposées relèvent de la rédaction web et de l'écrivaine pub
 ARTE+ est fondée par une personne en situation de handicap, qui connaît désormais ses limites et ses forces, et souhaite pouvoir concilier passions, compétences, valeurs, et respect de son rythme. Tout en gagnant enfin sa vie correctement, évidemment ! Une vie adaptée, en somme.  
 Les valeurs sont très importantes dans ce projet, et le mot choisi pour les expliquer c'est : l'inclusivité.  
 La plus totale possible.
+![3 photos de création sur le thème de l'eau](/images/Au fil de leau.png)
 
 <br>
 <br>

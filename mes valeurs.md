@@ -1,5 +1,5 @@
 ---
-title: "Activités"
+title: "Mes valeurs"
 order: 3
 in_menu: true
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Genèse du projet"
-order: 2
+order: 1
 in_menu: true
 ---
 ![Créations artistiques sur le thème de l'émergence, le mélange, et la fusion des idées](/images/créations-comme-des-idées.jpg)

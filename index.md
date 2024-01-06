@@ -18,7 +18,7 @@ Les prestations proposées relèvent de la rédaction web et de l'écrivaine pub
 ARTE+ est fondée par une personne en situation de handicap, qui connaît désormais ses limites et ses forces, et souhaite pouvoir concilier passions, compétences, valeurs, et respect de son rythme. Tout en gagnant enfin sa vie correctement, évidemment ! Une vie adaptée, en somme.  
 Les valeurs sont très importantes dans ce projet, et le mot choisi pour les expliquer c'est : l'inclusivité.  
 La plus totale possible.  
-<img src="https://github.com/ebasso89/une-vie-adaptee/blob/main/images/cr%C3%A9ations-au-fil-de-l'eau.jpg" alt="Créations artistiques sur le thème Au fil de l'eau"/>
+<img src="https://image.jimcdn.com/app/cms/image/transf/dimension=650x10000:format=jpg/path/sb5fa15dd7d19416c/image/ie971ab80b40e42ca/version/1438702442/recadrer-une-image-dans-pixlr-est-tr%C3%A8s-simple-essayez-ce-logiciel-en-ligne-c-est-tr%C3%A8s-simple-et-gratuit.jpg" alt="Créations artistiques sur le thème Au fil de l'eau"/>
 
 
 <br>

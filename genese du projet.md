@@ -234,4 +234,5 @@ Au 30 à Massy (91), etc.
 - Certificat Voltaire
 - Autoformation 
 
-![Créations artistiques sur le thème du jaillissement des choses](/images/créations-du-jaillissement-des-choses.jpg) 
+
+![Créations artistiques sur le thème du jaillissement des choses]({% link images/création-du-jaillissement-des-choses.jpg %}) 
